@@ -11,7 +11,7 @@ const Todos = ({ todos, deleteTodo }) => {
 
                 <div className="collection-item" key={todo.id}>
                     <span>{todo.content}</span>
-                    <button className="btn" onClick={() => deleteTodo(todo.id)}>Delete</button>
+                    <button className="btn brown darken-3" onClick={() => deleteTodo(todo.id)}>Delete</button>
                 </div>
             )
         })

@@ -1,7 +1,7 @@
 # Todo React App
 
-![No Todos](./assets/img/weatherapp.png)
-![Todos](./assets/img/weatherapp.png)
+![No Todos](./src/img/notodos.png)
+![Todos](./src/img/todos.png)
 
 
 This is a todo app I built to practice and solidify my knowledge of React.
@@ -29,4 +29,4 @@ This is a todo app I built to practice and solidify my knowledge of React.
 
 ## Goal
 
-I'll be using this front-end and try to add a back-end to it where the todos are saved in a database and deleted from it too.
+I'll be using this front-end and try to add a back-end, maybe using Nodejs and Mongodb, to it where the todos are saved in a database and deleted from it too.
