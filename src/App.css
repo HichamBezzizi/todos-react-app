@@ -2,10 +2,17 @@
 
 body{
     background-color: #63BB7D;
+    background-image:url('./img/todo_list.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 form label{
-    color: white;
+    color: black;
+}
+
+form input{
+    color:black
 }
 .container{
     font-family: 'Poppins', sans-serif;
